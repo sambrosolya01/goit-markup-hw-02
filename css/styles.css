@@ -136,7 +136,7 @@ body {
 
 .hero-button:hover,
 .hero-button:focus {
-    color: var(--active-button-color);
+    background-color: var(--active-button-color);
 }
 
 /* ADVANTAGES */
